@@ -86,13 +86,13 @@ def generate_map(locations, user_location):
 
     fg = folium.FeatureGroup(name="Marker map")
     fg.add_child(folium.Marker(user_location,
-                               icon=folium.Icon(),
-                               marker_color='green',
+                               icon=folium.Icon(color='green'),
                                tooltip='you are here'))
 
     cl = folium.FeatureGroup(name='Circle map')
+    print(radius)
     cl.add_child(folium.Circle(location=user_location,
-                               radius=radius * 10000,
+                               radius=radius*11113.9,
                                fill_color='green',
                                color='red',
                                fill=True,
@@ -105,7 +105,7 @@ def generate_map(locations, user_location):
         fg.add_child(folium.Marker(coord, tooltip=tooltip))
         if x == 10:
             break
-    print('Map generated. \
+    print('Map generated.\
 Check out new-created file Map.html in tests directory')
     map.add_child(fg)
     map.add_child(cl)
@@ -147,16 +147,16 @@ def get_user_input():
     '''
 
     def log_out():
-        exit = input('Wrong data, \
-try again(eg. year: 2000\nlocation: 49.83826, 24.02324)\n. \
-If you want to quit press Q key: ')
+        exit = input('Wrong data, try again(eg. year: 2000\nlocation: 49.83826, 24.02324)\n.\
+    If you want to quit press Q key: ')
         return exit
 
     result = ()
     breakdown = True
     while breakdown:
         # check year
-        year = input('Enter a year(XXXX-format) you want to be showed on map: ')
+        year = input('Enter a year(XXXX-format) you\
+want to be showed on map: ')
         year = year.strip()
 
         try:
@@ -287,3 +287,4 @@ def main():
 
 if __name__ == '__main__':
     main()
+
