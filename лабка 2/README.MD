@@ -15,7 +15,7 @@ To run world_map you have to have all libraries that are used in this project.
 To access file of the map just go into tests and then open in your browser file Mao.html
 
 
-<bold>After that you will have a field:</bold>
+<it>After that you will have a field:</it>
 
 Enter a year(XXXX-format) you want to be showed on map:
 You have to enter the proper year.
