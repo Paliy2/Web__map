@@ -29,25 +29,25 @@ It's recommended to change the wifi network or use VPN.
 
 <h3>Some Html tags:</h3>
 
-!DOCTYPE html- to define that the type of file isHTML5.
+&lt;!DOCTYPE html&gt; - to define that the type of file isHTML5.
 
-head - the most important information
+&lt;head&gt; - the most important information
 
-meta - metadata
+&lt;meta&gt; - metadata
 
-body - information displayed in the web page
+&lt;body&gt; - information displayed in the web page
 
-script - use scripts like JS inside the HTML file
+&lt;script&gt; - use scripts like JS inside the HTML file
 
-link - connect CSS to the HTML file
+&lt;link&gt; - connect CSS to the HTML file
 
-style - write CSS code inside HTML file
+&lt;style&gt; - write CSS code inside HTML file
 
-a - link to the site
+&lt;a&gt; - link to the site
 
-h1 - choose size of the text(from h1 to h6 - bigger/smaller)
+&lt;h1&gt; - choose size of the text(from h1 to h6 - bigger/smaller)
 
-div -block of items. Easy grouping
+&lt;div&gt; -block of items. Easy grouping
 
 Let's sum up
 The program shows us a map with the nearest locations where the films of the chosen year were filmed.
