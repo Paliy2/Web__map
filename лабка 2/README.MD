@@ -43,10 +43,6 @@ It's recommended to change the wifi network or use VPN.
 
 &lt;style&gt; - write CSS code inside HTML file
 
-&lt;a&gt; - link to the site
-
-&lt;h1&gt; - choose size of the text(from h1 to h6 - bigger/smaller)
-
 &lt;div&gt; -block of items. Easy grouping
 
 <h3>Let's sum up</h3>
