@@ -40,6 +40,8 @@ It's recommended to change the wifi network or use VPN.
 
 &lt;body&gt; - information displayed in the web page
 
+&lt;!DOCTYPE html&gt, &lt;head&gt;, &lt;body&gt; make structure of aany HTML file
+
 &lt;script&gt; - use scripts like JS inside the HTML file
 
 &lt;link&gt; - connect CSS to the HTML file
