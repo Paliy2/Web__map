@@ -11,7 +11,8 @@ Nearest filming locations to your input data by the year
 <h3>Usage</h3>
 
 To start the application you have to have installed python 3+ version
-To run world_map you have to have all libraries that are used in this project. So run this line in your cmd:
+To run world_map you have to have all libraries that are used in this project.
+To access file of the map just go into tests and then open in your browser file Mao.html
 
 
 <italc>After that you will have a field:</italic>
