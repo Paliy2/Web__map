@@ -105,25 +105,11 @@ def generate_map(locations, user_location):
         fg.add_child(folium.Marker(coord, tooltip=tooltip))
         if x == 10:
             break
-    print('Map generated. Check out new-created file Map.html in tests directory')
+    print('Map generated. \
+Check out new-created file Map.html in tests directory')
     map.add_child(fg)
     map.add_child(cl)
     map.save('tests/Map.html')
-
-
-#
-# def make_countries_dict(places):
-#     '''
-#     list -> dict
-#     create a dict with country keys and then other locations in country
-#     '''
-#     dct = {}
-#     for place in places:
-#         item = place.split(' ')
-#         if item[-1] not in dct.keys():
-#             dct[item[-1]] = []
-#         dct[item[-1]].append(place)
-#     return dct
 
 
 def find_distance(loc1, loc2):
@@ -160,8 +146,9 @@ def get_user_input():
     '''
 
     def log_out():
-        exit = input('Wrong data, try again(eg. year: 2000\nlocation: 49.83826, 24.02324)\n.\
-    If you want to quit press Q key: ')
+        exit = input('Wrong data, \
+try again(eg. year: 2000\nlocation: 49.83826, 24.02324)\n. \
+If you want to quit press Q key: ')
         return exit
 
     result = ()
