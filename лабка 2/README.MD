@@ -29,25 +29,25 @@ It's recommended to change the wifi network or use VPN.
 
 <h3>Some Html tags:</h3>
 
-<xmp><</xmp>!DOCTYPE html<xmp>></xmp> - to define that the type of file isHTML5.
+!DOCTYPE html- to define that the type of file isHTML5.
 
-<head> - the most important information
+head - the most important information
 
-<meta> - metadata
+meta - metadata
 
-<body> - information displayed in the web page
+body - information displayed in the web page
 
-<script> - use scripts like JS inside the HTML file
+script - use scripts like JS inside the HTML file
 
-<link> - connect CSS to the HTML file
+link - connect CSS to the HTML file
 
-<style> - write CSS code inside HTML file
+style - write CSS code inside HTML file
 
-<a> - link to the site
+a - link to the site
 
-<pre><xmp><h1></xmp></pre> - choose size of the text(from h1 to h6 - bigger/smaller)
+h1 - choose size of the text(from h1 to h6 - bigger/smaller)
 
-<div> -block of items. Easy grouping
+<xmp><div> -block of items. Easy grouping
 
 Let's sum up
 The program shows us a map with the nearest locations where the films of the chosen year were filmed.
