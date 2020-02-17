@@ -109,6 +109,7 @@ def generate_map(locations, user_location):
 Check out new-created file Map.html in tests directory')
     map.add_child(fg)
     map.add_child(cl)
+    map.add_child(folium.LayerControl())
     map.save('tests/Map.html')
 
 
