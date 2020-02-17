@@ -47,7 +47,7 @@ a - link to the site
 
 h1 - choose size of the text(from h1 to h6 - bigger/smaller)
 
-<xmp><div> -block of items. Easy grouping
+div -block of items. Easy grouping
 
 Let's sum up
 The program shows us a map with the nearest locations where the films of the chosen year were filmed.
