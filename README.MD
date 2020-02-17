@@ -4,15 +4,17 @@ The application visualizes up to 10 closest locations of the year you want on th
 
 <h3>What map can show you?</h3>
 
-Map that is provided by OpenStreetMap
-Nearest filming locations to your input data by the year
-10 closest places where films were taken
+Map that is provided by OpenStreetMap.
+Nearest filming locations to your input data by the year.
+10 closest places where films were taken.
 
 <h3>Usage</h3>
 
-To start the application you have to have installed python 3+ version
+To start the application you have to have installed python 3+ version.
 To run world_map you have to have all libraries that are used in this project.
-To access file of the map just go into tests and then open in your browser file Mao.html
+To run file just install geopy and folium python libraries and run web map.py file.
+It will create map in file Map.html.
+To access file of the map just go into tests and then open in your browser file Map.html.
 
 
 <i>After that you will have a field:</i>
@@ -21,7 +23,7 @@ Enter a year(XXXX-format) you want to be showed on map:
 You have to enter the proper year.
 Please enter your location (format: lat, long):
 You have to enter the proper location like <36.7, -98.12>. After that you have to wait a littele bit(around 1 minute).
-You can see location and it's coordinates during generating process
+You can see location and it's coordinates during generating process.
 
 <h3>Common errors</h3>
 
