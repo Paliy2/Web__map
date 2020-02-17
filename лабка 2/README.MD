@@ -49,7 +49,6 @@ It's recommended to change the wifi network or use VPN.
 
 &lt;div&gt; -block of items. Easy grouping
 
-Let's sum up
+<h3>Let's sum up</h3>
 The program shows us a map with the nearest locations where the films of the chosen year were filmed.
-
-I dont know if this web map will be usefull for you. But you can try it. 
+<p>I dont know if this web map will be usefull for you. But you can try it. </p>
