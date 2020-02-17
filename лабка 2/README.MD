@@ -29,7 +29,7 @@ It's recommended to change the wifi network or use VPN.
 
 <h3>Some Html tags:</h3>
 
-<pre><xmp><!DOCTYPE html></xmp></pre> - to define that the type of file isHTML5.
+<xmp><</xmp>!DOCTYPE html<xmp>></xmp> - to define that the type of file isHTML5.
 
 <head> - the most important information
 
