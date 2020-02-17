@@ -1,4 +1,4 @@
-<h2>Web map</h2>
+<p align=center><h2>Web map</h2></p>
 
 The application visualizes up to 10 closest locations of the year you want on the world map.
 
