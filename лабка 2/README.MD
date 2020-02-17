@@ -1,0 +1,55 @@
+Web map
+
+The application visualizes up to 10 closest locations of the year you want on the world map.
+
+What map can show you?
+
+Map that is provided by OpenStreetMap
+Nearest filming locations to your input data by the year
+10 closest places where films were taken
+
+Usage
+
+To start the application you have to have installed python 3+ version
+To run world_map you have to have all libraries that are used in this project. So run this line in your cmd:
+
+
+After that you will have a field:
+
+Enter a year(XXXX-format) you want to be showed on map:
+You have to enter the proper year.
+Please enter your location (format: lat, long):
+You have to enter the proper location like <36.7, -98.12>. After that you have to wait a littele bit(around 1 minute).
+You can see location and it's coordinates during generating process
+
+Common errors
+
+You can bump into geopy.exc.GeocoderQuotaExceeded: HTTP Error 429: Too Many Requests or geopy.exc.GeocoderTimedOut: Service timed out problems.
+It's recommended to change the wifi network or use VPN.
+
+Some Html tags:
+
+<!DOCTYPE html> - to define that the type of file isHTML5.
+
+<head> - the most important information
+
+<meta> - metadata
+
+<body> - information displayed in the web page
+
+<script> - use scripts like JS inside the HTML file
+
+<link> - connect CSS to the HTML file
+
+<style> - write CSS code inside HTML file
+
+<a> - link to the site
+
+<h1> - choose size of the text(from h1 to h6 - bigger/smaller)
+
+<div> -block of items. Easy grouping
+
+Let's sum up
+The program shows us a map with the nearest locations where the films of the chosen year were filmed.
+
+I dont know if this web map will be usefull for you. But you can try it. 
