@@ -26,7 +26,8 @@ You have to enter the proper location like <36.7, -98.12>. After that you have t
 You can see location and it's coordinates during generating process.
 
 <ing src="https://github.com/Paliy2/Web__map/blob/master/%D0%BB%D0%B0%D0%B1%D0%BA%D0%B0%202/tests/Map_example.png">
-
+![Equalizer](https://github.com/Paliy2/Web__map/blob/master/%D0%BB%D0%B0%D0%B1%D0%BA%D0%B0%202/tests/Map_example.png)
+  
 <h3>Common errors</h3>
 
 You can bump into geopy.exc.GeocoderQuotaExceeded: HTTP Error 429: Too Many Requests or geopy.exc.GeocoderTimedOut: Service timed out problems.
