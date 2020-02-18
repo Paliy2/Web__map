@@ -26,8 +26,7 @@ You have to enter the proper location like <36.7, -98.12>. After that you have t
 You can see location and it's coordinates during generating process.
 
 <img src="https://github.com/Paliy2/Web__map/blob/master/%D0%BB%D0%B0%D0%B1%D0%BA%D0%B0%202/tests/Map_example.png">
-![Equalizer](https://lh3.googleusercontent.com/MRqoRaDkKCLc-aS7oeHHlRYckqSIHTRKOaDIUL7s9aXAiwu8zY8DT78IdEf6PwbxjbvDwYgd57Z2Gl19F_Ek0vOL9s4ESmHbciACZVn82IS0xvfHlaJpOtZhLsY81EuLhz8BO9W-HfCYxb5oCDckOULKtAKe0poEVblcFezwKPjYeyyeMAXUeXdeHoYA3DsLzUazpaCQqLqkA50ZPsAQx5JJ1RHo3LTO31cicSyu2yjDDsMPYK9jWSM9uI2loi2HHvi0dIPDKVfgg4AsnfGWHv56FDQ6pnkP-zAbHddPI0J9YNErB_9sSFfh88QqgPCA-R-bhM_Q87Po1GtDZA7_h_6TtgGWvpuPj2hi7a84B3F5-SWDuRlpEkw60rMXrKzGyc8QVr4qpJKD5xV0xiMYncQioTPpIOk4138DpSGwzCWoKWOwUF80onQ67DLb9YIYFpX-MJuxPOn77gbshLlnmcoe-ZjjyebtgW_Y0nDA39tvok6uefjnzl4TExcQdcYFfS1vSVb28mFNha8sC1JEQjqaV6280grXRcroTeP_vyASGvN0J7VYF2xIK3MGm7lFzqpbNKcwS-sLC3_bE3BntU3ROpbgEUyEFkx96JcEeV5WaGzmdHdyhcsKbiBoI0tOwLacU-KufbKhXnZubDLeITxBpt5AhD0bS9hw_8lNWAioCnsECvnnggw=w1366-h768-no)
-  
+
 <h3>Common errors</h3>
 
 You can bump into geopy.exc.GeocoderQuotaExceeded: HTTP Error 429: Too Many Requests or geopy.exc.GeocoderTimedOut: Service timed out problems.
