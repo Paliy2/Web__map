@@ -16,6 +16,7 @@ To run file just install geopy and folium python libraries and run web map.py fi
 It will create map in file Map.html.
 To access file of the map just go into tests and then open in your browser file Map.html.
 
+<img src="https://github.com/Paliy2/Web__map/blob/master/%D0%BB%D0%B0%D0%B1%D0%BA%D0%B0%202/tests/Map_example.jpg">
 
 <i>After that you will have a field:</i>
 
